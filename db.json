@@ -1,5 +1,6 @@
 
-[
+{
+    "Anime": [
     {
         "id": 1,
         "Anime": "One Piece",
@@ -19,3 +20,4 @@
         "Desc": "Lorem ipsume dolor i maon jsat ksaa lds ew and ş"
     }
 ]
+}
