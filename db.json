@@ -1,5 +1,4 @@
 {
-    [
     "lastAnime": [
     {
         "id": 1,
@@ -19,24 +18,5 @@
         "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Steins%3BGate_cover_art.jpg",
         "Desc": "Lorem ipsume dolor i maon jsat ksaa lds ew and ş"
     }
-],
-    "lastmanga": [
-    "id": 1,
-        "Anime": "One Piece",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg/220px-One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",
-        "Desc": "Lorem ipsume dolor i maon jsat ksaa lds ew and ş"
-    },
-    {
-        "id": 2,
-        "Anime": "Naruto",
-        "image": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg",
-        "Desc": "Lorem ipsume dolor i maon jsat ksaa lds ew and ş"
-    },
-    {
-        "id": 3,
-        "Anime": "Stines Gate",
-        "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Steins%3BGate_cover_art.jpg",
-        "Desc": "Lorem ipsume dolor i maon jsat ksaa lds ew and ş"
-    ]
-        ]
+]
 }
