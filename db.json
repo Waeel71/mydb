@@ -18,25 +18,5 @@
         "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Steins%3BGate_cover_art.jpg",
         "Desc": "Lorem ipsume dolor i maon jsat ksaa lds ew and ş"
         }
-    ],
-    "lastManga": [
-        {
-        "id": 1,
-        "Anime": "One Piece",
-        "image": "https://static.tvtropes.org/pmwiki/pub/images/2e5c6d37_566f_4274_b62d_ebf5fcbd0722.png",
-        "Desc": "Lorem ipsume dolor i maon jsat ksaa lds ew and ş"
-        },
-        {
-        "id": 2,
-        "Anime": "Naruto",
-        "image": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg",
-        "Desc": "Lorem ipsume dolor i maon jsat ksaa lds ew and ş"
-        },
-        {
-        "id": 3,
-        "Anime": "Stines Gate",
-        "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Steins%3BGate_cover_art.jpg",
-        "Desc": "Lorem ipsume dolor i maon jsat ksaa lds ew and ş"
-        }
     ]
 }
